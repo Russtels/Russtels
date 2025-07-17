@@ -5,14 +5,15 @@
 Software engineer specializing in Reverse Engineering, low-level,FullStack web Development, and automation of proccess.
 
 <p align="left">
-   <a href="https://linkedin.com/in/samuel-acosta" target="_blank">
-      <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+   <a href="https://linkedin.com/in/samuel-acosta">
+      <img alt="LinkedIn" title="Conecta conmigo en LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-   <a href="https://github.com/Russtels?tab=followers" target="_blank">
-      <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Russtels?style=for-the-badge&logo=github&color=236ad3&labelColor=1155ba"/>
+   <a href="https://github.com/Russtels?tab=followers">
+      <img alt="followers" title="Sígueme en Github" src="https://custom-icon-badges.demolab.com/github/followers/Russtels?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
    </a>
-   <img alt="Email" title="My email address" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
-   <code>samuelacostadev@proton.me</code>
+    <a href="mailto:samuelacostadev@proton.me">
+      <img alt="Email" title="Envíame un correo" src="https://custom-icon-badges.demolab.com/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
+   </a>
 </p>
 
 ---
@@ -83,6 +84,7 @@ Software engineer specializing in Reverse Engineering, low-level,FullStack web D
 </table>
 
 **Reverse Engineering & Low-Level:** ASM, IDA, Ghidra, ReClass, x64Dbg
+**Other:** 
 
 ---
 
