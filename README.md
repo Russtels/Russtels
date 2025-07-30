@@ -69,8 +69,8 @@ Software engineer specializing in Reverse Engineering, low-level,FullStack web D
       MongoDB
     </td>
     <td align="center" width="95" height="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="AWS" /><br>
-      AWS
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-line-wordmark.svg" width="40" height="40" alt="AWS" /><br>
+      Node.Js
     </td>
     <td align="center" width="95" height="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="SQL" /><br>
