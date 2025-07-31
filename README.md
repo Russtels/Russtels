@@ -1,4 +1,4 @@
-# 🧀 Russtels(Samuel Acosta)
+# 🧀 Samuel Acosta
 
 **`Software Engineer (Reverse Engineering / Low-Level /FullStack-Web / Automation)`**
 
