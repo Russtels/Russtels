@@ -83,8 +83,7 @@ Software engineer specializing in Reverse Engineering, low-level,FullStack web D
   </tr>
 </table>
 
-**Reverse Engineering & Low-Level:** ASM, IDA, Ghidra, ReClass, x64Dbg
-**Other:** 
+**Reverse Engineering & Low-Level:** ASM, IDA, Ghidra, ReClass, x64Dbg 
 
 ---
 
